@@ -1,0 +1,20 @@
+#Additional Line
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Node (for frontend)
+node_modules/
+build/
+dist/
+
+# Environment
+.env
+*.log
+application.properties
